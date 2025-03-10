@@ -5,7 +5,7 @@ Soy un estudiante de **Ingeniería Electrónica** apasionado por el desarrollo d
 ## 💻 Lenguajes que manejo  
 
 - **Programación y desarrollo**: Arduino, C, C++, Python, SQL, Mathematica, LaTeX, VHDL  
-- **Idiomas**: Español (nativo), English (B2-C1), Deutsch (B1)  
+- **Idiomas**: Español (nativo), English (C1), Deutsch (B1)  
 
 ## ⚡ Sobre mí  
 
